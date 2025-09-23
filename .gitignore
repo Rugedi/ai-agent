@@ -10,4 +10,4 @@ wheels/
 .venv
 .env
 # Files
-~/workspace/ai-agent/key.env
+key.env
